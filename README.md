@@ -215,3 +215,58 @@ state ensemble json data apart from what will be stored on MongoDB.
     │   └── <size>_<state>.json*
     └── README.md
 ```
+
+### State Ensemble Status (Does not Have Ensembles :x: / Has Ensembles :heavy_check_mark:):
+
+|State| Has Ensembles|
+|---|---|
+|Alabama|:x:|
+|Alaska|:x:|
+|Arizona|:x:|
+|Arkansas|:x:|
+|California|:x:|
+|Colorado|:x:|
+|Connecticut|:x:|
+|Delaware|:x:|
+|Florida|:x:|
+|Georgia|:x:|
+|Hawaii|:x:|
+|Idaho|:x:|
+|Illinois|:x:|
+|Indiana|:x:|
+|Iowa|:x:|
+|Kansas|:x:|
+|Kentucky|:x:|
+|Louisiana|:x:|
+|Maine|:x:|
+|Maryland|:x:|
+|Massachusetts|:x:|
+|Michigan|:x:|
+|Minnesota|:x:|
+|Mississippi|:x:|
+|Missouri|:x:|
+|Montana|:x:|
+|Nebraska|:x:|
+|Nevada|:x:|
+|New Hampshire|:x:|
+|New Jersey|:x:|
+|New Mexico|:x:|
+|New York|:x:|
+|North Carolina|:x:|
+|North Dakota|:x:|
+|Ohio|:x:|
+|Oklahoma|:x:|
+|Oregon|:x:|
+|Pennsylvania|:x:|
+|Rhode Island|:x:|
+|South Carolina|:x:|
+|South Dakota|:x:|
+|Tennessee|:x:|
+|Texas|:x:|
+|Utah|:x:|
+|Vermont|:x:|
+|Virginia|:x:|
+|Washington|:x:|
+|West Virginia|:x:|
+|Wisconsin|:x:|
+|Wyoming|:x:|
